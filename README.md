@@ -1,76 +1,120 @@
-<h1 align="center">👨‍💻 Pablo | Full Stack Developer & IT Engineer in Progress</h1>
+<h1 align="center">Pablo Martínez Fernández</h1>
+<h3 align="center">Ingeniero en formación | Full Stack Developer | Consultor IT en proyectos sanitarios y públicos</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
 
-### 🧠 Sobre mí
+## 🧠 Perfil Profesional
 
-🎓 Formación técnica y académica sólida:
+Soy un desarrollador con visión de ingeniería, orientado a resultados y con amplia experiencia en tecnologías **frontend y backend**, integración con **sistemas empresariales**, y participación activa en **proyectos del sector sanitario y administración pública**.
 
-- 🔌 **Técnico Superior en Mantenimiento Electrónico**
-- 💻 **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- 🔐 **Especialización en Seguridad de Aplicaciones Web (SAW)**
-- 🤖 **Ingeniería Electrónica Industrial y Automática**
-- 🧠 **Ingeniería Informática (en curso)**
-
-💡 Me apasiona construir sistemas eficientes, seguros y escalables, conectando **hardware y software**, y resolviendo problemas reales con tecnología de alto nivel.
+Combino la lógica de programación con el diseño de arquitectura, seguridad y rendimiento para aportar soluciones reales a clientes y organizaciones.
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 🎓 Formación Académica
 
-#### 🔥 Frontend
-`Angular` • `React` • `Next.js` • `Vue.js` • `Tailwind CSS` • `PrimeNG` • `Bootstrap` • `HTML5` • `CSS3` • `TypeScript` • `SASS`
-
-#### 🚀 Backend
-`Java` • `Spring Boot` • `.NET` • `Node.js` • `Express` • `PHP` • `Python (Flask/Django)` • `REST API` • `GraphQL`
-
-#### 🧱 Bases de Datos
-`MySQL` • `PostgreSQL` • `SQL Server` • `MongoDB` • `SQLite`
-
-#### 🧩 DevOps & Otros
-`Docker` • `Git` • `GitHub Actions` • `AWS EC2` • `CI/CD` • `Linux` • `Firebase` • `Odoo API` • `RabbitMQ`
+- ⚙️ Técnico Superior en **Mantenimiento Electrónico**
+- 💻 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 🔐 Especialización en **Seguridad en Aplicaciones Web (SAW)**
+- 🏭 Grado en **Ingeniería Electrónica Industrial y Automática**
+- 🧠 Actualmente cursando **Ingeniería Informática**
 
 ---
 
-### 💼 Proyectos destacados
+## 🛠️ Tecnologías Dominadas
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **FantasyBasket** | Juego tipo NBA Fantasy con lógica de XP, niveles, y mercado | Angular, Spring Boot, REST, JWT |
-| **Odoo REST Connector** | Integración total con Odoo para ventas y recompensas | Java, Spring, Odoo REST API |
-| **Biblioteca Digital** | Sistema de reservas con firma digital y PDF en Angular/.NET | Angular, .NET, SQL |
-| **Sistema de Gestión de Talleres** | Control de reparaciones, partes, clientes y técnicos | JavaFX, MySQL |
-| **Plataforma educativa** | Portal de profesores y alumnos con tareas, calendario, y chat | Angular, Spring Boot, PrimeNG |
-| **Sistema de Tickets HelpDesk** | Gestión de incidencias para equipos técnicos | React, Node.js, MongoDB |
-| **Automatización con Arduino + Odoo** | Proyecto IoT con lectura de sensores integrada a ERP | C++, Arduino, Python, Odoo |
-| **Dashboard Crypto DeFi** | Visualizador de carteras DeFi y farming automático | React, Web3.js, Solidity |
-| **Plataforma de exámenes online** | Evaluaciones temporizadas con lógica anti-trampas | Angular, Java, PostgreSQL |
+### 👨‍💻 Backend
+`Java` • `Spring Boot` • `.NET Framework / Core` • `Node.js` • `Python (FastAPI, Flask)` • `Express.js` • `PHP` • `REST APIs` • `JWT` • `OAuth2`
+
+### 🌐 Frontend
+`Angular` • `React` • `Next.js` • `PrimeNG` • `Tailwind CSS` • `TypeScript` • `HTML5` • `SASS` • `Bootstrap`
+
+### 🗃️ Bases de Datos
+`MariaDB` • `MySQL` • `PostgreSQL` • `SQL Server` • `MongoDB` • `Firebase Firestore`
+
+### 🔧 DevOps / Otros
+`Docker` • `Git` • `GitHub Actions` • `Linux` • `AWS EC2` • `Odoo REST API` • `RabbitMQ` • `iText PDF` • `Claris FileMaker` • `Claris Connect`
 
 ---
 
-### ✨ Diseño visual del perfil
+## 🧩 Proyectos Profesionales Destacados
+
+### 🏥 Gestión Sanitaria – Valdecilla, Mompía, Osakidetza
+**Soluciones para hospitales y entornos clínicos**, incluyendo plataformas de gestión de pacientes, formularios médicos, turnos y procesos automatizados.  
+🛠️ Angular · .NET · Firebase · MariaDB · REST APIs
+
+---
+
+### 🗂️ Integración Clínica con FileMaker + Claris Connect
+Automatización de procesos sanitarios y administrativos usando FileMaker + Claris, conectando datos entre laboratorios, clínicas y sistemas web.  
+🛠️ FileMaker Pro · Claris Connect · Webhooks · APIs personalizadas
+
+---
+
+### 🌍 Plataforma oficial de Ayudas SODERCAN
+Desarrollo web completo para la gestión y consulta de ayudas públicas de Cantabria.  
+🛠️ Angular · .NET · SQL Server · Formularios seguros · Login por OAuth2
+
+---
+
+### 🏀 FantasyBasket
+Simulador tipo NBA Fantasy con lógica de mercado, experiencia, recompensas y comunicación con backend ERP Odoo.  
+🛠️ Angular · Spring Boot · JWT · REST API · Odoo · Docker · EC2
+
+---
+
+### 📚 Biblioteca Digital
+Sistema de gestión de préstamos con devoluciones digitales, firmas biométricas y comprobantes en PDF.  
+🛠️ Angular · .NET · SQL Server · PDF Generator · Firma digital
+
+---
+
+### 🎓 Plataforma Educativa Interactiva
+Gestión docente: asignaturas, tareas, bandeja de entrada y calendario visual.  
+🛠️ Angular · PrimeNG · Spring Boot · JWT
+
+---
+
+### 🛠️ HelpDesk Técnico Empresarial
+Sistema interno de incidencias IT, con roles de técnicos y responsables, notificaciones y métricas.  
+🛠️ React · Node.js · MongoDB · WebSocket
+
+---
+
+### 💸 Crypto Portfolio Tracker
+Dashboard personal de criptomonedas con análisis de carteras y alertas.  
+🛠️ React · Web3.js · CoinGecko API · Chart.js
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pablodev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodev&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pablodev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pablomttecnologia&show_icons=true&theme=default&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomttecnologia&layout=compact" />
 </p>
 
 ---
 
-### 📫 Contacto
+## 🧭 Otras Competencias
 
-- 🌐 Portafolio: [www.pablodev.com](https://www.pablodev.com)
-- 💼 LinkedIn: [linkedin.com/in/pablodev](https://linkedin.com/in/pablodev)
-- ✉️ Email: pablo@email.com
+- 📋 Redacción técnica de documentación funcional y técnica
+- 🧩 Integración con APIs públicas y privadas (Odoo, Claris, Firebase, etc.)
+- 🔒 Buenas prácticas en ciberseguridad y auditoría básica
+- 👨‍🏫 Capacidad de formación y liderazgo técnico en equipo
 
 ---
 
-> 🧠 “El código que escribes debe ser tan limpio y preciso como el circuito que diseñas.”
+## 📬 Contacto Profesional
+
+- 🌐 Portafolio: [www.pablomttecnologia.com](https://www.pablomttecnologia.com)
+- 💼 LinkedIn: [linkedin.com/in/pablomttecnologia](https://linkedin.com/in/pablomttecnologia)
+- 📧 Email: pablo.martinez@ejemplo.com
+
+---
+
+> _"No diseño solo código. Diseño sistemas que conectan personas, procesos y resultados."_  
