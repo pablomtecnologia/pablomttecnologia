@@ -20,8 +20,7 @@ Combino la lógica de programación con el diseño de arquitectura, seguridad y 
 - ⚙️ Técnico Superior en **Mantenimiento Electrónico**
 - 💻 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🔐 Especialización en **Seguridad en Aplicaciones Web (SAW)**
-- 🏭 Grado en **Ingeniería Electrónica Industrial y Automática**
-- 🧠 Actualmente cursando **Ingeniería Informática**
+- 🏭 Cursé el Grado en **Ingeniería Electrónica Industrial y Automática**
 
 ---
 
@@ -85,11 +84,7 @@ Sistema interno de incidencias IT, con roles de técnicos y responsables, notifi
 
 ---
 
-### 💸 Crypto Portfolio Tracker
-Dashboard personal de criptomonedas con análisis de carteras y alertas.  
-🛠️ React · Web3.js · CoinGecko API · Chart.js
 
----
 
 ## 📊 GitHub Stats
 
